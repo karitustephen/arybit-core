@@ -74,18 +74,6 @@ Founder & Lead Architect: **Stephen Karitu**
 This repository contains **public-facing materials only**.  
 Core platform source code remains proprietary.
 
-© 2025 Arybit Technologies. All rights reserved.
-```
-
----
-
-## 📄 `LICENSE`
-
-Use a **custom restrictive license** (recommended for product positioning):
-
-```
-Copyright (c) 2025 Arybit Technologies
-
 All rights reserved.
 
 This repository contains public-facing materials only.
